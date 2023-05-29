@@ -1,0 +1,15 @@
+{
+    "yes": {
+        "en": "YES"
+    },
+    "no": {
+        "en": "NO"
+    },
+    "ok": {
+        "en": "OK"
+    },
+    "msg_still": {
+        "en": "You can still here\nbefore start"
+    }
+    
+}
